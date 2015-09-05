@@ -1,0 +1,11 @@
+.navbar-custom{
+    background:#F0EAD6;
+}
+.pad{
+    position: relative;
+    padding-top: 13px;
+}
+.custom-center{
+    position: relative;
+    text-align: center;
+}
